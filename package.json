@@ -1,16 +1,16 @@
 {
-  "name": "cordova-plugin-kiosk-launcher",
+  "name": "cordova-plugin-kiosk-launcher-fix",
   "version": "1.1.1",
   "description": "Cordova plugin to make a Cordova application a launcher",
   "cordova": {
-    "id": "cordova-plugin-kiosk-launcher",
+    "id": "cordova-plugin-kiosk-launcher-fix",
     "platforms": [
       "android"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/guatedude2/cordova-plugin-kiosk-launcher.git"
+    "url": "https://github.com/sw-mo/cordova-plugin-kiosk-launcher-fix.git"
   },
   "keywords": [
     "cordova",
